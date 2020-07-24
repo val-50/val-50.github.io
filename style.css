@@ -1,56 +1,69 @@
-body {
-  font-family: "Helvetica",  sans-serif;
-  margin: 0;
-  padding: 0;
-  background: url("shipka.jpg")
+#i1 {
+    font-family: "Helvetica",  sans-serif;
+    margin: 0;
+    padding: 0;
+	background: url("shipka.jpg")
 	 no-repeat;
     background-size: cover;
-}
-nav {
-  background: #234465;
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-nav ul {
-  text-align: center;
-  margin: 0;
-  padding: 10px;
-}
-nav ul li {
-  display: inline-block;
-}
-nav ul li a {
-  display: block;
-  padding: 10px 20px;
-  text-decoration: none;
-  color: white;
-  border-radius: 5px;
-}
-section {
-    width: 60%;
-    margin: 80px auto;
-}
-section h1{
+	background-attachment: fixed;
+  }
+ #c1 {
+	font-family: "Helvetica",  sans-serif;
+    margin: 0;
+    padding: 0;
+ }
+ #a1 {
+	font-family: "Helvetica",  sans-serif;
+    margin: 0;
+    padding: 0;
+ }
+  
+  nav {
+    background: #234465;
+	position: fixed;
+    top: 0;
+    width: 100%;
+	
+  }
+  nav ul {
     text-align: center;
-    font-size: 42px;
-}
-
-header p {
-    font-style: italic;
-}
-footer {
-  background: #234465;
-  text-align: center;
-  color: white;
-  padding: 8px;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-}
-article {
-  margin-left: 350px;
-}
-main {
+    margin: 0;
+    padding: 10px;
+  }
+  nav ul li {
+    display: inline-block;
+  }
+  nav ul li a {
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+  }
+  section {
+      width: 60%;
+      margin: 80px auto;
+  }
+  section h1{
+      text-align: center;
+      font-size: 42px;
+  }
+  
+  header p {
+      font-style: italic;
+  }
+  footer {
+    background: #234465;
+    text-align: center;
+    color: white;
+    padding: 8px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  article {
+	margin-left: 450px; 
+  }
+  main {
 	margin-bottom: 30px;  
   }
