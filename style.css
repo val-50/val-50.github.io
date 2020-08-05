@@ -17,6 +17,12 @@
     margin: 0;
     padding: 0;
  }
+#s1  article header p {
+	  color: red;
+  }
+ #s1 article p{
+	 color:yellow;
+ }
   
   nav {
     background: #234465;
@@ -63,6 +69,12 @@
   }
   article {
 	margin-left: 350px; 
+  }
+ article p {
+	  color: green;
+  }
+  article header p {
+	  color: red;
   }
   main {
 	margin-bottom: 30px;  
