@@ -70,6 +70,9 @@
   article {
 	margin-left: 500px; 
   }
+#s1 article {
+	margin-left: 500px; 
+  }
  article p {
 	  color: green;
   }
