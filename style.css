@@ -25,7 +25,7 @@
  }
   
   nav {
-    background: #234465;
+    background: #bf00ff;
 	position: fixed;
     top: 0;
     width: 100%;
@@ -59,7 +59,7 @@
       font-style: italic;
   }
   footer {
-    background: #234465;
+    background: #9f40bf;
     text-align: center;
     color: white;
     padding: 8px;
