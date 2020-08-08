@@ -25,7 +25,7 @@
  }
   
   nav {
-    background: #bf00ff;
+    background: #e6e6e6;
 	position: fixed;
     top: 0;
     width: 100%;
@@ -59,7 +59,7 @@
       font-style: italic;
   }
   footer {
-    background: #9f40bf;
+    background: #000000;
     text-align: center;
     color: white;
     padding: 8px;
@@ -126,4 +126,35 @@
   font-size: 40px;
   text-align: center;
   background: white;
+}
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.button2 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+}
+
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+}
+.button3 {
+  background-color: #ffffff; 
+  color: #000000; 
+  border: 2px solid #008CBA;
+}
+
+.button3:hover {
+  background-color: #bfbfbf;
+  color: #000000;
 }
