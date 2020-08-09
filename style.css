@@ -158,3 +158,10 @@
   background-color: #bfbfbf;
   color: #000000;
 }
+#blog1 {
+	  width: 550px;
+  display: inline-block;
+  }
+#blog1 li {
+	display: inline-block;  
+  }
