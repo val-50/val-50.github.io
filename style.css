@@ -8,10 +8,9 @@
   }
  #c1 {
 	font-family: "Helvetica",  sans-serif;
-    margin: 0;
-    padding: 0;
-	 background: url("anat_1.jpg")
-	 no-repeat;
+        margin: 0;
+        padding: 0;
+	 background: url("anat_1.jpg") no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
  }
@@ -96,7 +95,7 @@
 	  color: green;
   }
   article header p {
-	  color: red;
+	  color: white;
   }
   main {
 	margin-bottom: 30px;  
