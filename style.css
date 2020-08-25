@@ -11,11 +11,35 @@
 	font-family: "Helvetica",  sans-serif;
     margin: 0;
     padding: 0;
+	 background: url("anat_1.jpg")
+	 no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
  }
  #a1 {
 	font-family: "Helvetica",  sans-serif;
     margin: 0;
     padding: 0;
+	 background: url("DSC04409.jpg")
+	 no-repeat;
+	 background-size: cover;
+	background-attachment: fixed;
+ }
+#b1 {
+	font-family: "Helvetica",  sans-serif;
+    margin: 0;
+    padding: 0;
+	background-size: cover;
+	background-attachment: fixed;
+ }
+ #p1 {
+	font-family: "Helvetica",  sans-serif;
+    margin: 0;
+    padding: 0;
+	background: url("DSC04408.jpg")
+	 no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
  }
 #s1  article header p {
 	  color: red;
