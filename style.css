@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     background: url("AK1.jpg") no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
     background-attachment: fixed;
   }
  #c1 {
@@ -11,7 +11,7 @@
         margin: 0;
         padding: 0;
 	 background: url("anat_1.jpg") no-repeat;
-	background-size: 100% 100%;
+	background-size: cover;
 	background-attachment: fixed;
  }
  #a1 {
@@ -19,14 +19,14 @@
         margin: 0;
         padding: 0;
 	 background: url("ase_1.jpg") no-repeat;
-	 background-size: 100% 100%;
+	 background-size: cover;
 	background-attachment: fixed;
  }
 #b1 {
 	font-family: "Helvetica",  sans-serif;
         margin: 0;
         padding: 0;
-	background-size: 100% 100%;
+	background-size: cover;
 	background-attachment: fixed;
  }
  #p1 {
@@ -34,7 +34,7 @@
         margin: 0;
         padding: 0;
 	background: url("ase_2.jpg") no-repeat;
-	background-size: 100% 100%;
+	background-size: cover;
 	background-attachment: fixed;
  }
 #s1  article header p {
